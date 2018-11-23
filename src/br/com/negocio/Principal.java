@@ -1,6 +1,5 @@
-package br.com.detranjava;
+package br.com.negocio;
 
-import br.com.negocio.*;
 import br.com.entidade.Onibus;
 import br.com.entidade.Caminhao;
 import br.com.entidade.Automovel;
